@@ -4,7 +4,9 @@ Explore the amazing diversity of cultured bacteria from some participants’ bel
 ![BBB.jpg](https://github.com/PlainJane20/Belly_Button_Biodiversity/blob/main/images/BBB.JPG)
 
 # Interactive Dashboard
-Here I built an interactive dashboard to explore a data set in 'JSON'. The data set is from a science project called [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/). 
+Here I built an interactive dashboard to explore a data set in 'JSON' that catalogs the microbes that colonize human navels. The data set is from a science project called [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/). 
+
+The dataset tells us that tiny handful of microbial species (also known as Operational Taxonomic Units, or OTUs) were present in more than 70% of people, while the rest were relatively rare.
 
 This project was developed in JavaScript using Plotly.JS and D3.JS.
 If you want to see this project, then click [here](https://plainjane20.github.io/Belly_Button_Biodiversity/).
