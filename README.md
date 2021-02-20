@@ -12,7 +12,7 @@ This project was developed in JavaScript using Plotly.JS and D3.JS.
 If you want to see this project, then click [here](https://plainjane20.github.io/Belly_Button_Biodiversity/).
 
 ## Website and Coding
-* The subject IDs are selected dynamically from the data set from [JSON file](/statoc/data/samples.json).<br>
+* The subject IDs are selected dynamically from the data set from [JSON file](static/data/samples.json).<br>
 ![doc](/images/BellySubjectID.JPG)<br>
 
 This initial function was developed to handle the JSON file, and extract just the IDs from the JSON and send it to the Html page:<br>
